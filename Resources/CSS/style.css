@@ -277,10 +277,12 @@ header .navbar a:hover {
   font-size: var(--h2-font);
   font-weight: 600;
   margin: 10px 0;
+  text-decoration: none;
 }
 .p-box p {
   font-size: var(--p-font);
   font-weight: 400;
+  text-decoration: none;
 }
 .contact-content {
   display: flex;
